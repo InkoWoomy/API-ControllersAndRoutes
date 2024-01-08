@@ -9,3 +9,5 @@ We are going to start by creating a Controller with Routes that Allow you to:
 Give our Endpoints different Routes - Adding a specific path for the Endpoint
 
 Pass data through Routes - to pass data through add /{parameter name} to the route for each parameter
+
+Peer Review by Zach Dressel: Code properly functions and displays correct output phrase. I dislike the use of the lecture files as a base but it does help with understanding to see in in a working version as well. Good stuff.
