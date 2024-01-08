@@ -1,0 +1,66 @@
+C:\Users\Jacob\Documents\code\CodestackS6\Work\Lectures\My Lectures\API-ControllersAndRoutes\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Jacob\Documents\code\CodestackS6\Work\Lectures\My Lectures\API-ControllersAndRoutes\bin\Debug\net7.0\appsettings.json
+C:\Users\Jacob\Documents\code\CodestackS6\Work\Lectures\My Lectures\API-ControllersAndRoutes\bin\Debug\net7.0\API-ControllersAndRoutes.exe
+C:\Users\Jacob\Documents\code\CodestackS6\Work\Lectures\My Lectures\API-ControllersAndRoutes\bin\Debug\net7.0\API-ControllersAndRoutes.deps.json
+C:\Users\Jacob\Documents\code\CodestackS6\Work\Lectures\My Lectures\API-ControllersAndRoutes\bin\Debug\net7.0\API-ControllersAndRoutes.runtimeconfig.json
+C:\Users\Jacob\Documents\code\CodestackS6\Work\Lectures\My Lectures\API-ControllersAndRoutes\bin\Debug\net7.0\API-ControllersAndRoutes.dll
+C:\Users\Jacob\Documents\code\CodestackS6\Work\Lectures\My Lectures\API-ControllersAndRoutes\bin\Debug\net7.0\API-ControllersAndRoutes.pdb
+C:\Users\Jacob\Documents\code\CodestackS6\Work\Lectures\My Lectures\API-ControllersAndRoutes\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Jacob\Documents\code\CodestackS6\Work\Lectures\My Lectures\API-ControllersAndRoutes\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Jacob\Documents\code\CodestackS6\Work\Lectures\My Lectures\API-ControllersAndRoutes\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jacob\Documents\code\CodestackS6\Work\Lectures\My Lectures\API-ControllersAndRoutes\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jacob\Documents\code\CodestackS6\Work\Lectures\My Lectures\API-ControllersAndRoutes\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jacob\Documents\code\CodestackS6\Work\Lectures\My Lectures\API-ControllersAndRoutes\obj\Debug\net7.0\API-ControllersAndRoutes.csproj.AssemblyReference.cache
+C:\Users\Jacob\Documents\code\CodestackS6\Work\Lectures\My Lectures\API-ControllersAndRoutes\obj\Debug\net7.0\API-ControllersAndRoutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacob\Documents\code\CodestackS6\Work\Lectures\My Lectures\API-ControllersAndRoutes\obj\Debug\net7.0\API-ControllersAndRoutes.AssemblyInfoInputs.cache
+C:\Users\Jacob\Documents\code\CodestackS6\Work\Lectures\My Lectures\API-ControllersAndRoutes\obj\Debug\net7.0\API-ControllersAndRoutes.AssemblyInfo.cs
+C:\Users\Jacob\Documents\code\CodestackS6\Work\Lectures\My Lectures\API-ControllersAndRoutes\obj\Debug\net7.0\API-ControllersAndRoutes.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Documents\code\CodestackS6\Work\Lectures\My Lectures\API-ControllersAndRoutes\obj\Debug\net7.0\API-ControllersAndRoutes.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jacob\Documents\code\CodestackS6\Work\Lectures\My Lectures\API-ControllersAndRoutes\obj\Debug\net7.0\API-ControllersAndRoutes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jacob\Documents\code\CodestackS6\Work\Lectures\My Lectures\API-ControllersAndRoutes\obj\Debug\net7.0\staticwebassets\msbuild.API-ControllersAndRoutes.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jacob\Documents\code\CodestackS6\Work\Lectures\My Lectures\API-ControllersAndRoutes\obj\Debug\net7.0\staticwebassets\msbuild.build.API-ControllersAndRoutes.props
+C:\Users\Jacob\Documents\code\CodestackS6\Work\Lectures\My Lectures\API-ControllersAndRoutes\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API-ControllersAndRoutes.props
+C:\Users\Jacob\Documents\code\CodestackS6\Work\Lectures\My Lectures\API-ControllersAndRoutes\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API-ControllersAndRoutes.props
+C:\Users\Jacob\Documents\code\CodestackS6\Work\Lectures\My Lectures\API-ControllersAndRoutes\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Jacob\Documents\code\CodestackS6\Work\Lectures\My Lectures\API-ControllersAndRoutes\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Jacob\Documents\code\CodestackS6\Work\Lectures\My Lectures\API-ControllersAndRoutes\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Jacob\Documents\code\CodestackS6\Work\Lectures\My Lectures\API-ControllersAndRoutes\obj\Debug\net7.0\scopedcss\bundle\API-ControllersAndRoutes.styles.css
+C:\Users\Jacob\Documents\code\CodestackS6\Work\Lectures\My Lectures\API-ControllersAndRoutes\obj\Debug\net7.0\API-ControllersAndRoutes.csproj.CopyComplete
+C:\Users\Jacob\Documents\code\CodestackS6\Work\Lectures\My Lectures\API-ControllersAndRoutes\obj\Debug\net7.0\API-ControllersAndRoutes.dll
+C:\Users\Jacob\Documents\code\CodestackS6\Work\Lectures\My Lectures\API-ControllersAndRoutes\obj\Debug\net7.0\refint\API-ControllersAndRoutes.dll
+C:\Users\Jacob\Documents\code\CodestackS6\Work\Lectures\My Lectures\API-ControllersAndRoutes\obj\Debug\net7.0\API-ControllersAndRoutes.pdb
+C:\Users\Jacob\Documents\code\CodestackS6\Work\Lectures\My Lectures\API-ControllersAndRoutes\obj\Debug\net7.0\API-ControllersAndRoutes.genruntimeconfig.cache
+C:\Users\Jacob\Documents\code\CodestackS6\Work\Lectures\My Lectures\API-ControllersAndRoutes\obj\Debug\net7.0\ref\API-ControllersAndRoutes.dll
+C:\Users\ASori\Documents\CS 23-24\Level 2\W2 D1 - Controllers and Routes\API-ControllersAndRoutes\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ASori\Documents\CS 23-24\Level 2\W2 D1 - Controllers and Routes\API-ControllersAndRoutes\bin\Debug\net7.0\appsettings.json
+C:\Users\ASori\Documents\CS 23-24\Level 2\W2 D1 - Controllers and Routes\API-ControllersAndRoutes\bin\Debug\net7.0\API-ControllersAndRoutes.exe
+C:\Users\ASori\Documents\CS 23-24\Level 2\W2 D1 - Controllers and Routes\API-ControllersAndRoutes\bin\Debug\net7.0\API-ControllersAndRoutes.deps.json
+C:\Users\ASori\Documents\CS 23-24\Level 2\W2 D1 - Controllers and Routes\API-ControllersAndRoutes\bin\Debug\net7.0\API-ControllersAndRoutes.runtimeconfig.json
+C:\Users\ASori\Documents\CS 23-24\Level 2\W2 D1 - Controllers and Routes\API-ControllersAndRoutes\bin\Debug\net7.0\API-ControllersAndRoutes.dll
+C:\Users\ASori\Documents\CS 23-24\Level 2\W2 D1 - Controllers and Routes\API-ControllersAndRoutes\bin\Debug\net7.0\API-ControllersAndRoutes.pdb
+C:\Users\ASori\Documents\CS 23-24\Level 2\W2 D1 - Controllers and Routes\API-ControllersAndRoutes\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ASori\Documents\CS 23-24\Level 2\W2 D1 - Controllers and Routes\API-ControllersAndRoutes\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\ASori\Documents\CS 23-24\Level 2\W2 D1 - Controllers and Routes\API-ControllersAndRoutes\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASori\Documents\CS 23-24\Level 2\W2 D1 - Controllers and Routes\API-ControllersAndRoutes\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASori\Documents\CS 23-24\Level 2\W2 D1 - Controllers and Routes\API-ControllersAndRoutes\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASori\Documents\CS 23-24\Level 2\W2 D1 - Controllers and Routes\API-ControllersAndRoutes\obj\Debug\net7.0\API-ControllersAndRoutes.csproj.AssemblyReference.cache
+C:\Users\ASori\Documents\CS 23-24\Level 2\W2 D1 - Controllers and Routes\API-ControllersAndRoutes\obj\Debug\net7.0\API-ControllersAndRoutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASori\Documents\CS 23-24\Level 2\W2 D1 - Controllers and Routes\API-ControllersAndRoutes\obj\Debug\net7.0\API-ControllersAndRoutes.AssemblyInfoInputs.cache
+C:\Users\ASori\Documents\CS 23-24\Level 2\W2 D1 - Controllers and Routes\API-ControllersAndRoutes\obj\Debug\net7.0\API-ControllersAndRoutes.AssemblyInfo.cs
+C:\Users\ASori\Documents\CS 23-24\Level 2\W2 D1 - Controllers and Routes\API-ControllersAndRoutes\obj\Debug\net7.0\API-ControllersAndRoutes.csproj.CoreCompileInputs.cache
+C:\Users\ASori\Documents\CS 23-24\Level 2\W2 D1 - Controllers and Routes\API-ControllersAndRoutes\obj\Debug\net7.0\API-ControllersAndRoutes.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASori\Documents\CS 23-24\Level 2\W2 D1 - Controllers and Routes\API-ControllersAndRoutes\obj\Debug\net7.0\API-ControllersAndRoutes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASori\Documents\CS 23-24\Level 2\W2 D1 - Controllers and Routes\API-ControllersAndRoutes\obj\Debug\net7.0\staticwebassets\msbuild.API-ControllersAndRoutes.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASori\Documents\CS 23-24\Level 2\W2 D1 - Controllers and Routes\API-ControllersAndRoutes\obj\Debug\net7.0\staticwebassets\msbuild.build.API-ControllersAndRoutes.props
+C:\Users\ASori\Documents\CS 23-24\Level 2\W2 D1 - Controllers and Routes\API-ControllersAndRoutes\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API-ControllersAndRoutes.props
+C:\Users\ASori\Documents\CS 23-24\Level 2\W2 D1 - Controllers and Routes\API-ControllersAndRoutes\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API-ControllersAndRoutes.props
+C:\Users\ASori\Documents\CS 23-24\Level 2\W2 D1 - Controllers and Routes\API-ControllersAndRoutes\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ASori\Documents\CS 23-24\Level 2\W2 D1 - Controllers and Routes\API-ControllersAndRoutes\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ASori\Documents\CS 23-24\Level 2\W2 D1 - Controllers and Routes\API-ControllersAndRoutes\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ASori\Documents\CS 23-24\Level 2\W2 D1 - Controllers and Routes\API-ControllersAndRoutes\obj\Debug\net7.0\scopedcss\bundle\API-ControllersAndRoutes.styles.css
+C:\Users\ASori\Documents\CS 23-24\Level 2\W2 D1 - Controllers and Routes\API-ControllersAndRoutes\obj\Debug\net7.0\API-ControllersAndRoutes.csproj.CopyComplete
+C:\Users\ASori\Documents\CS 23-24\Level 2\W2 D1 - Controllers and Routes\API-ControllersAndRoutes\obj\Debug\net7.0\API-ControllersAndRoutes.dll
+C:\Users\ASori\Documents\CS 23-24\Level 2\W2 D1 - Controllers and Routes\API-ControllersAndRoutes\obj\Debug\net7.0\refint\API-ControllersAndRoutes.dll
+C:\Users\ASori\Documents\CS 23-24\Level 2\W2 D1 - Controllers and Routes\API-ControllersAndRoutes\obj\Debug\net7.0\API-ControllersAndRoutes.pdb
+C:\Users\ASori\Documents\CS 23-24\Level 2\W2 D1 - Controllers and Routes\API-ControllersAndRoutes\obj\Debug\net7.0\API-ControllersAndRoutes.genruntimeconfig.cache
+C:\Users\ASori\Documents\CS 23-24\Level 2\W2 D1 - Controllers and Routes\API-ControllersAndRoutes\obj\Debug\net7.0\ref\API-ControllersAndRoutes.dll
